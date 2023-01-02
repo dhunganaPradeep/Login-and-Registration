@@ -15,3 +15,5 @@ Basic input validation to ensure proper data is entered
 ## Requirements
 A C++ compiler is required to run the code
 
+Pradip Dhungana
+
