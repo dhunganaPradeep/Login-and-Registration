@@ -15,5 +15,5 @@ To use the code, simply run the file in a C++ compiler and follow the prompts.
 ## Requirements
 - A C++ compiler is required to run the code
 
-# Pradip Dhungana
+
 
